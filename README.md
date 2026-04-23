@@ -20,7 +20,7 @@ This is a relational database project built in MySQL. The system tracks game pla
 | 1 | Nisar Ahmed | 5000000370 |
 | 2 | Saira Memon | 5000000374 |
 | 3 | Abdullah Rajput | 5000000381 |
-| 4 | Fehmida Mahar | 5000000393 |
+| 4 | Fahmida Mahar | 5000000393 |
 
 ---
 
@@ -50,7 +50,6 @@ This is a relational database project built in MySQL. The system tracks game pla
 | File | Description |
 |------|-------------|
 | `team_nisar_gaming.sql` | Full SQL — database, tables, data, queries |
-| `team_nisar_backup.sql` | Database backup file |
 | `README.md` | This file |
 
 ---
